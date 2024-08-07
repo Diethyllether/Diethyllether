@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/solar-system.png">
+<img align="left" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/skeleton.png">
  ### Hi, I'm Ether
 Highschool Student with aspirations to one day work in a respectable company
 
