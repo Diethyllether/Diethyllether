@@ -9,4 +9,6 @@
 ![Static Badge](https://img.shields.io/badge/OS-Nixos-blue?style=flat)
 
 
+
+
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Diethyllether&theme=gruvbox&show_icons=true)
