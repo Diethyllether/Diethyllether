@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/malrboro.png">
+<img align="left" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/soldier.jpg">
 
 ### Hi, I'm Ether
 
