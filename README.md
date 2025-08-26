@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/enaHoldingHat.jpg">
+<img align="left" width="40%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/enaHoldingHat.jpg">
 
 ### Hi, I'm Felipe Cornélio Leite
 -# I go by Diethyllether online
