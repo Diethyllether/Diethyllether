@@ -15,17 +15,20 @@
 <br>
 
 <div>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="45" alt="nixos logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
     <img width="12" />
-    <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+    <img src="https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/logo.svg" height="45" alt="helix logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="45" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" alt="lua logo"  />
   </div>
+
   
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diethyllether&theme=codeSTACKr&show_icons=true">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=Diethyllether&theme=codeSTACKr&show_icons=true">
