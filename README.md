@@ -1,5 +1,5 @@
 <div>
-  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/master/everything_is_awful.jpg">
+  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/everything_is_awful.jpg">
 
   <h3>Hi, I'm Felipe Cornélio Leite</h3>
   <blockquote> I go by Diethyllether online</blockquote>
