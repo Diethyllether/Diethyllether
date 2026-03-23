@@ -31,5 +31,4 @@
 
   
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diethyllether&theme=slateorange&show_icons=true">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Diethyllether&theme=slateorange&show_icons=true">
 </div>
