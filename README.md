@@ -1,10 +1,10 @@
 <div>
-  <img align="left" width="20%" style="padding-right:10px;" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/shiori-novella-shiori.gif">
+  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/shiori-novella-shiori.gif">
 
-  <h3>Hi, I'm Felipe Cornélio Leite</h3>
-  <blockquote> I go by Diethyllether online</blockquote>
+  <h3>&nbsp;Hi, I'm Felipe Cornélio Leite</h3>
+  <blockquote>&nbsp; I go by Diethyllether online</blockquote>
 
-  <blockquote> Highschool Student with plans to become a OS dev or embedded systems developer</blockquote>
+  <blockquote>&nbsp; Highschool Student with plans to become a OS dev or embedded systems developer</blockquote>
 
   ![Static Badge](https://img.shields.io/badge/Age-17-orange)
   ![Static Badge](https://img.shields.io/badge/Country-Brasil-green)
