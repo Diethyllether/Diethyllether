@@ -1,5 +1,5 @@
 <div>
-  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/everything_is_awful.jpg">
+  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/shiori-novella-shiori.gif">
 
   <h3>Hi, I'm Felipe Cornélio Leite</h3>
   <blockquote> I go by Diethyllether online</blockquote>
@@ -28,7 +28,4 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" alt="lua logo"  />
   </div>
-
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diethyllether&theme=slateorange&show_icons=true">
 </div>
