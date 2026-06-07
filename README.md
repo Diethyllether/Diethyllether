@@ -1,5 +1,5 @@
 <div>
-  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/shiori-novella-shiori.gif">
+  <img align="left" width="20%" src="https://raw.githubusercontent.com/Diethyllether/Diethyllether/refs/heads/master/MakimaBySailen0.jpg">
 
   <h3>&nbsp;Hi, I'm Felipe Cornélio Leite</h3>
   <blockquote>&nbsp; I go by Diethyllether online</blockquote>
